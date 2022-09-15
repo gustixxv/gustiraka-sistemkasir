@@ -1,0 +1,6 @@
+- start
+- memberikan barang
+- menghitung total harga
+- melakukan pembayaran
+- kembalian
+- finish
