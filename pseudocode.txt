@@ -1,0 +1,12 @@
+program sistem_kasir 
+
+deklarasi
+total_harga, pembayaran : integer;
+barang : char
+
+IF pembayaran more than total_harga
+    PRINT "kembalian"
+ELSE IF pembayaran equal total_harga
+    PRINT "pembayaran sukses"
+ELSE 
+    PRINT "silakan melakukan pembayaran"
