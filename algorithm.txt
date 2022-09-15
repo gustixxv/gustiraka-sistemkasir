@@ -3,4 +3,5 @@
 - menghitung total harga
 - melakukan pembayaran
 - kembalian
+- membawa barang yang sudah di bayar
 - finish
