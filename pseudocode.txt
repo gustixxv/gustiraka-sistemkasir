@@ -1,0 +1,5 @@
+program sistem_kasir 
+
+deklarasi
+total_harga, pembayaran, kembalian : integer;
+barang : char
